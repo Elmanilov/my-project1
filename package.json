@@ -1,0 +1,38 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elmanilov/my-project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elmanilov/my-project1/issues"
+  },
+  "homepage": "https://github.com/Elmanilov/my-project1#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.3.1",
+    "next": "^16.0.8",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.3",
+    "@types/node": "25.0.0",
+    "@types/react": "19.2.7",
+    "eslint": "^9.39.1",
+    "eslint-config-next": "^16.0.8",
+    "typescript": "5.9.3"
+  }
+}
